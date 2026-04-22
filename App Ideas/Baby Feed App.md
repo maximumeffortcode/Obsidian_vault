@@ -1,0 +1,7 @@
+- Set time, reminders, alerts for when to feed baby
+- Log time, ounces, meds (mylicon, gripewater) when feeding occurs
+- View calendar view of previous entries, pdf print out or week view to export 
+- Total ounces needed for the day dependent on age of baby
+- Notes or checklist section for each feed (burp, no burp, spit up, time took baby to eat bottle, etc )
+- On start up of the app ask for name of baby and DOB for baby, then ask for parent name
+- 

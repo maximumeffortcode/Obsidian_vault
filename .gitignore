@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Obsidian workspace state (optional but recommended)
+.obsidian/workspace.json
+
+# Cache (optional)
+.obsidian/cache/
+
+# Logs
+*.log

@@ -1,0 +1,12 @@
+{
+  "cssTheme": "",
+  "theme": "obsidian",
+  "accentColor": "#f00f0f",
+  "baseFontSize": 18,
+  "interfaceFontFamily": "American Typewriter",
+  "textFontFamily": "American Typewriter",
+  "translucency": true,
+  "enabledCssSnippets": [
+    "custom_font_color"
+  ]
+}
